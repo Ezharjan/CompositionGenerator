@@ -1,3 +1,6 @@
+[Original Repository](LOST)
+
+
 # 2020高考满分作文生成器
 
 ## 概述
